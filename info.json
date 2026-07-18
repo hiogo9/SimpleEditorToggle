@@ -1,0 +1,9 @@
+{
+  "name": "SimpleEditorToggle",
+  "version": "1.0.0",
+  "title": "Simple Editor Toggle",
+  "author": "hiogo9",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0"],
+  "description": "Включает и выключает режим редактора по нажатию горячей клавиши без блокировки достижений."
+}
